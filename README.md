@@ -56,7 +56,7 @@ To analyze customer behavior for insights on repeat purchases and loyalty, infor
 
 <a href="https://github.com/anmolsaxena177/SMART_RETAIL_INSIGHTS_PROJECT/blob/main/sales_transaction-1714027462.csv">Sales Transaction</a> : Records of sales transactions, including transaction ID, customer ID, product ID, quantity purchased, transaction date, and price.
 
-<a href="https://github.com/guntassinghgs/Retail_Analytics_SQL_Project/blob/main/customer_profiles-1-1714027410.csv">Customer_data</a> : Information on customers, including customer ID, age, gender, location, and join date.
+<a href="https://github.com/anmolsaxena177/SMART_RETAIL_INSIGHTS_PROJECT/blob/main/sales_transaction-1714027462.csv">Customer_data</a> : Information on customers, including customer ID, age, gender, location, and join date.
 
 <a href="https://github.com/guntassinghgs/Retail_Analytics_SQL_Project/blob/main/product_inventory-1-1714027438.csv">product_data</a> : Data on product inventory, including product ID, product name, category, stock level, and price.
 
