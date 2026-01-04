@@ -81,4 +81,4 @@ Customer Behavior Analysis: Analyze patterns in repeat purchases and loyalty ind
 
 Also, segment customers based on total quantity of products purchased 
 
-SQL FILE : <a href="https://github.com/guntassinghgs/Retail_Analytics_SQL_Project/blob/main/retail%20case%20study.sql">Dataset</a>
+SQL FILE : <a href="https://github.com/anmolsaxena177/SMART_RETAIL_INSIGHTS_PROJECT/blob/main/retail%20case%20study.sql">Dataset</a>
